@@ -1,0 +1,2 @@
+# TPU
+Tyristorový polořízený usměrňovač
